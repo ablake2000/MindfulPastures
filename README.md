@@ -1,1 +1,1 @@
-# Mindful Pastures is a hypothetical mental health website.
+Mindful Pastures is a hypothetical mental health website.
